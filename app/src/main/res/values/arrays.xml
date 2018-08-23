@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ip_addrs">
+        <item>sina.cn</item>
+        <item>www.baidu.com</item>
+        <item>www.sohu.com</item>
+        <item>www.taobao.com</item>
+        <item>www.jd.com</item>
+        <item>www.qq.com</item>
+        <item>www.tencent.com</item>
+        <item>www.163.com</item>
+        <item>www.toutiao.com</item>
+        <item>www.bilibili.com</item>
+        <item>www.iqiyi.com</item>
+        <item>www.kuwo.cn</item>
+        <item>changba.com</item>
+        <item>www.amap.com</item>
+        <item>www.careland.com.cn</item>
+        <item>www.mi.com</item>
+        <item>weixin.qq.com</item>
+        <item>www.lenovo.com.cn</item>
+        <item>www.zte.com.cn</item>
+        <item>www.huawei.com</item>
+    </string-array>
+</resources>
